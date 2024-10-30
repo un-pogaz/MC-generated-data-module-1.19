@@ -1,8 +1,0 @@
-minecraft:explorer_map
-
-minecraft:compass
-minecraft:map
-minecraft:clock
-minecraft:paper
-minecraft:feather
-minecraft:book

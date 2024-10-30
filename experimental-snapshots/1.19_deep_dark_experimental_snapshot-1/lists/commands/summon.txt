@@ -1,3 +1,0 @@
-summon <entity minecraft:entity_summon>
-summon <entity minecraft:entity_summon> <pos minecraft:vec3>
-summon <entity minecraft:entity_summon> <pos minecraft:vec3> <nbt minecraft:nbt_compound_tag>

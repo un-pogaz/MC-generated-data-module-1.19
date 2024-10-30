@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "mob/warden/dig",
-      "volume": 1
-    }
-  ],
-  "subtitle": "subtitles.entity.warden.dig"
-}

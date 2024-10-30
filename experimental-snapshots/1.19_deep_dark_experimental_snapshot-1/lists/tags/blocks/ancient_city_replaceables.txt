@@ -1,2 +1,0 @@
-#minecraft:deepslate_blocks
-minecraft:gray_wool

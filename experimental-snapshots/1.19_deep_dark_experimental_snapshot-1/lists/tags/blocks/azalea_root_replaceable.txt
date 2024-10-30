@@ -1,3 +1,0 @@
-#minecraft:lush_ground_replaceable
-#minecraft:terracotta
-minecraft:red_sand

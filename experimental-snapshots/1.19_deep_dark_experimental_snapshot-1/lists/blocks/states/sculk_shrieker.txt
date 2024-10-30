@@ -1,2 +1,0 @@
-shrieking=true
-shrieking=false  [default]

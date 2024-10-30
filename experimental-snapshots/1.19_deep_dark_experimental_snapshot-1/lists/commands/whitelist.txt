@@ -1,6 +1,0 @@
-whitelist on
-whitelist off
-whitelist list
-whitelist add <targets minecraft:game_profile>
-whitelist remove <targets minecraft:game_profile>
-whitelist reload
